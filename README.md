@@ -22,6 +22,6 @@
     <img src="https://skillicons.dev/icons?i=jenkins,aws,azure,docker" />
   </a>
 </p>
-
-#Stats
+\ \
+# Stats
 ![Jaimit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaimit-joshi&show_icons=true&theme=calm)
