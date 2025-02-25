@@ -23,4 +23,5 @@
   </a>
 </p>
 
-![Jaimit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaimit-joshi&show_icons=true&theme=transparent)
+#Stats
+![Jaimit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaimit-joshi&show_icons=true&theme=calm)
