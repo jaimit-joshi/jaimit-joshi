@@ -5,6 +5,13 @@
 **Front-end:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,js,css,bootstrap,scss,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,html,js,css,bootstrap,mongodb" />
+  </a>
+</p>
+
+**Backend-end:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,sql,ansible,xlr,postmanapi" />
   </a>
 </p>
