@@ -12,6 +12,6 @@
 **Backend-end:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,sql,ansible,xlr,postmanapi" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,mysql,postman" />
   </a>
 </p>
