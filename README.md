@@ -51,12 +51,12 @@ I believe in:
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,sql,bash" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,mysql,bash" />
 </p>
 
 ### ⚙️ Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,redux,postman,jenkins,ansible,git,github,jira,vscode" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,redux,postman,jenkins,ansible,git,github,vscode" />
 </p>
 
 ### 🧪 Testing & QA
