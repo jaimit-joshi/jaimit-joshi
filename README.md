@@ -86,7 +86,7 @@ I believe in:
 ---
 
 ### 💻 Clomotech — Software Engineer Intern (Remote)  
-📅 Jan 2023 – May 2023
+📅 Jan 2023 – June 2023
 
 - Developed high-performance React components → **30% faster UI**
 - Built scalable Node.js REST APIs → automated 60% workflows
